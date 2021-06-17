@@ -14,3 +14,6 @@ w3YN0boJNFiXZYBeW3vuRw6qOb/0zpyhQCYSqmCnMZk=
 
 # git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/mywebpage
 
+# Location of aws C:\Users\**
+
+
