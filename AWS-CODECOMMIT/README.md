@@ -12,7 +12,7 @@ w3YN0boJNFiXZYBeW3vuRw6qOb/0zpyhQCYSqmCnMZk=
 
 ![image](https://user-images.githubusercontent.com/84037413/122447009-315d2300-cf9b-11eb-8914-755384c3ad91.png)
 
-https://git-codecommit.us-east-1.amazonaws.com/v1/repos/mywebpage
+# git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/mywebpage
 
 
 
